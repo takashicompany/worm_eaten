@@ -21,3 +21,83 @@ The PCB can also be modified as a plate to fix the keyswitches.
 
 LEDs and OLEDs can also be mounted.
 MX and Choc(v1) keyswitches can be installed.
+
+## 組み立て方
+
+### 1.基板の表裏を確認する
+
+表
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_2991.jpg?raw=true" width="600px"/>
+
+裏
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_2992.jpg?raw=true" width="600px"/>
+
+### 2. ダイオードのはんだ付け
+
+ダイオードをはんだ付けします。  
+スルーホール型とSMD型に対応しています。
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_3068.jpg?raw=true" width="600px"/>
+
+ダイオードは`|◁`のマークの縦の線とダイオード中央部の黒い線の向きが合うように配置します。  
+ダイオードをPCBの表面に取り付ける際は
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_3069.jpg?raw=true" width="600px"/>
+
+
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+<img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
