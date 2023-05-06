@@ -22,6 +22,10 @@ The PCB can also be modified as a plate to fix the keyswitches.
 LEDs and OLEDs can also be mounted.
 MX and Choc(v1) keyswitches can be installed.
 
+# ファームウェア
+
+QMK Firmwareのソースコードは[こちら](https://github.com/takashicompany/qmk_firmware/tree/worm_eaten/v1/keyboards/takashicompany/worm_eaten)です。
+
 <!---
 
 ## 組み立て方
