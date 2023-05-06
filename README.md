@@ -22,8 +22,7 @@ The PCB can also be modified as a plate to fix the keyswitches.
 LEDs and OLEDs can also be mounted.
 MX and Choc(v1) keyswitches can be installed.
 
-#ビルドガイドは途中です！。
-
+<!---
 
 ## 組み立て方
 
@@ -106,3 +105,5 @@ MX and Choc(v1) keyswitches can be installed.
 <img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
 <img src = "https://github.com/takashicompany/worm_eaten/blob/master/images/build/IMG_.jpg?raw=true" width="600px"/>
+
+--->
